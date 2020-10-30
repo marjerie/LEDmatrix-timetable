@@ -1,5 +1,5 @@
 # LEDmatrix-timetable
-A time table/reminder system for classrooms
+A time table/reminder system for classrooms - [See Project](https://marjerie.github.io/projects/TT)
 
 A device that displays the time table, time, temperature (in Celsius), date, day and month. 
 This device is specially designed for classrooms. 
